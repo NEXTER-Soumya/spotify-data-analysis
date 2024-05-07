@@ -1,0 +1,9 @@
+{
+  "version": "4.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../spotify_data_analysis.SemanticModel"
+    },
+    "byConnection": null
+  }
+}
